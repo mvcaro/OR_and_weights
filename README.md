@@ -15,4 +15,8 @@ Instance segmentation
 |11 | Learning to segment object candidates | 2015 | [ * ](https://arxiv.org/pdf/1506.06204.pdf) |
 |12 | Learning to refine object segments | 2016 | [ * ](https://arxiv.org/pdf/1603.08695.pdf) |
 |13 | A MultiPath Network for Object Detection | 2016 | [ * ](https://arxiv.org/pdf/1604.02135v2.pdf) |
-| 
+| |
+|A1 | Convolutional feature masking for joint object and stuff segmentation | 2014 | [ * ](https://arxiv.org/pdf/1412.1283.pdf) |
+|A2 | Rich feature hierarchies for accurate object detection and semantic segmentation | 2013 | [ * ](https://arxiv.org/pdf/1311.2524.pdf)|
+|A3 | Simultaneous detection and segmentation | 2014 | [ * ](https://arxiv.org/pdf/1407.1808.pdf) |
+|A4 | Hypercolumns for object segmentation and fine-grained localization | 2014 | [ * ](https://arxiv.org/pdf/1411.5752.pdf)|
