@@ -24,6 +24,7 @@ Instance segmentation
 |20 | PANet: Path Aggregation Network for Instance Segmentation | 2018 | [ * ](https://arxiv.org/pdf/1712.04837.pdf) |
 |21 | BlitzNet: A Real-Time Deep Network for Scene Understanding | 2017 | [ * ](https://arxiv.org/pdf/1708.02813.pdf) | | [ * ](https://github.com/dvornikita/blitznet) | | | |
 |22 | FastMask: Segment Multi-scale Object Candidates in One Shot | 2017 | [ * ](https://arxiv.org/pdf/1612.08843.pdf) | | | [* ](https://github.com/voidrank/FastMask) | | [Caffe](https://github.com/voidrank/FastMask) |
+|23 | Deep Residual Learning for Image Recognition | 2016 | [* ](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) | | | Caffe(https://github.com/KaimingHe/deep-residual-networks) | | |
 | - | - | - | - | - | - | - | - | - |
 |A1 | Convolutional feature masking for joint object and stuff segmentation | 2014 | [ * ](https://arxiv.org/pdf/1412.1283.pdf) |
 |A2 | Rich feature hierarchies for accurate object detection and semantic segmentation | 2013 | [ * ](https://arxiv.org/pdf/1311.2524.pdf)|
