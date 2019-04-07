@@ -1,8 +1,8 @@
 Instance segmentation
 ===
-- PT = PyTorch
+- PT = PyTorch    
 - TF = TensorFlow
-- C = Caffe
+- C = Caffe       
 - MXN = MXNet
 - MCN = MaxConvNet
 
