@@ -1,6 +1,12 @@
 Instance segmentation
 ===
-| No. | Name     | Year | Paper | PT | TF |  C | MXNet |MCN | Pretrained weights |
+- PT = PyTorch
+- TF = TensorFlow
+- C = Caffe
+- MXN = MXNet
+- MCN = MaxConvNet
+
+| No. | Name     | Year | Paper | PT | TF |  C | MXN |MCN | Pretrained weights |
 |:---:|----------|------| :---: | :---:   | :---:      |  :---: | :---: |   :---:   |       :---:        |
 | 1 |Mask R-CNN | 2017 | [ * ](https://arxiv.org/pdf/1703.06870.pdf) |  [PT](https://github.com/facebookresearch/maskrcnn-benchmark) | [ TF ](https://github.com/matterport/Mask_RCNN) | [ C ](https://github.com/facebookresearch/Detectron) | | | [PyTorch](https://github.com/facebookresearch/maskrcnn-benchmark/blob/master/MODEL_ZOO.md), [Tensorflow](https://github.com/matterport/Mask_RCNN) |
 | 2 |FCIS: Fully convolutional instance-aware semantic segmentation | 2016 | [ * ](https://arxiv.org/pdf/1611.07709.pdf) |  |  | [ * ](https://github.com/msracver/FCIS) |  | | [MXNet](https://github.com/msracver/FCIS)|
