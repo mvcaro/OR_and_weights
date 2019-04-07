@@ -19,7 +19,8 @@ Instance segmentation
 |15 | Recurrent Instance Segmentation | 2015 | [ * ](https://arxiv.org/pdf/1511.08250.pdf) |
 |16 | MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features | 2017 | [ * ](https://arxiv.org/pdf/1712.04837.pdf) |
 |17 | Semantic Instance Segmentation via Deep Metric Learning | 2017 | [ * ](https://arxiv.org/pdf/1703.10277.pdf) |
-|18 | Recurrent Pixel Embedding for Instance Grouping| 2017 | [ * ](https://arxiv.org/pdf/1712.08273.pdf)
+|18 | Recurrent Pixel Embedding for Instance Grouping| 2017 | [ * ](https://arxiv.org/pdf/1712.08273.pdf) |
+|19 | End-to-End Instance Segmentation with Recurrent Attention| 2017 | [ * ](https://arxiv.org/pdf/1605.09410.pdf)|
 | - | - | - | - | - | - | - | - | - |
 |A1 | Convolutional feature masking for joint object and stuff segmentation | 2014 | [ * ](https://arxiv.org/pdf/1412.1283.pdf) |
 |A2 | Rich feature hierarchies for accurate object detection and semantic segmentation | 2013 | [ * ](https://arxiv.org/pdf/1311.2524.pdf)|
