@@ -22,9 +22,9 @@ Instance segmentation
 | 8 | Deep Watershed Transform for Instance Segmentation | 2016 | [ * ](https://arxiv.org/pdf/1611.08303.pdf)
 | 9 | Pixelwise Instance Segmentation with a Dynamically Instantiated Network | 2017 | [ * ](https://arxiv.org/pdf/1704.02386.pdf)|
 |10 | SGN: Sequential Grouping Networks for Instance Segmentation| 2017 | [ * ](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_SGN_Sequential_Grouping_ICCV_2017_paper.pdf) |
-|11 | DeepMask: Learning to segment object candidates | 2015 | [ * ](https://arxiv.org/pdf/1506.06204.pdf) |
-|12 | SharpMask: Learning to refine object segments | 2016 | [ * ](https://arxiv.org/pdf/1603.08695.pdf) |
-|13 | A MultiPath Network for Object Detection | 2016 | [ * ](https://arxiv.org/pdf/1604.02135v2.pdf) |
+|11 | DeepMask: Learning to segment object candidates | 2015 | [ * ](https://arxiv.org/pdf/1506.06204.pdf) | [PT](https://github.com/foolwood/deepmask-pytorch) |  | | | | [T](https://github.com/facebookresearch/deepmask) | [PyTorch](https://github.com/foolwood/deepmask-pytorch), [Torch](https://github.com/facebookresearch/deepmask) |
+|12 | SharpMask: Learning to refine object segments | 2016 | [ * ](https://arxiv.org/pdf/1603.08695.pdf) | | [TF](https://github.com/aby2s/sharpmask) |  |  |  | [T](https://github.com/facebookresearch/deepmask) | [TensorFlow](https://github.com/aby2s/sharpmask) , [Torch](https://github.com/facebookresearch/deepmask) |
+|13 | A MultiPath Network for Object Detection | 2016 | [ * ](https://arxiv.org/pdf/1604.02135v2.pdf) | | | | | | [T](https://github.com/facebookresearch/multipathnet) | [Torch](https://github.com/facebookresearch/multipathnet) |
 |14 | Iterative instance segmentation | 2015 | [ * ](https://arxiv.org/pdf/1511.08498.pdf) |  |  | |  | |
 |15 | Recurrent Instance Segmentation | 2015 | [ * ](https://arxiv.org/pdf/1511.08250.pdf) | | | | | | [T](https://github.com/bernard24/RIS) | / |
 |16 | MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features | 2017 | [ * ](https://arxiv.org/pdf/1712.04837.pdf) | | | | | |  | / weights and code |
