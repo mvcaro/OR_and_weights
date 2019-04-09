@@ -6,7 +6,8 @@ Instance segmentation
 - MXN = MXNet
 - MCN = MaxConvNet
 
-*  ~ Code not very accurate / incomplete 
+* ~ Code not very accurate / incomplete 
+* / Not available
 
 | No. | Name     | Year | Paper | PT | TF |  C | MXN |MCN | Pretrained weights |
 |:---:|----------|------| :---: | :---:   | :---:      |  :---: | :---: |   :---:   |       :---:        |
@@ -26,7 +27,7 @@ Instance segmentation
 |14 | Iterative instance segmentation | 2015 | [ * ](https://arxiv.org/pdf/1511.08498.pdf) |  |  | |  | |
 |15 | Recurrent Instance Segmentation | 2015 | [ * ](https://arxiv.org/pdf/1511.08250.pdf) |
 |16 | MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features | 2017 | [ * ](https://arxiv.org/pdf/1712.04837.pdf) |
-|17 | Semantic Instance Segmentation via Deep Metric Learning | 2017 | [ * ](https://arxiv.org/pdf/1703.10277.pdf) | [~PT](https://github.com/alicranck/instance-seg) |  | | | | None |
+|17 | Semantic Instance Segmentation via Deep Metric Learning | 2017 | [ * ](https://arxiv.org/pdf/1703.10277.pdf) | | | | | | / weights and code| [~PT](https://github.com/alicranck/instance-seg) |  | | | | / |
 |18 | Recurrent Pixel Embedding for Instance Grouping| 2017 | [ * ](https://arxiv.org/pdf/1712.08273.pdf) | | | | | [MCN](https://github.com/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping) | [MatConvNet](https://github.com/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping)|
 |19 | End-to-End Instance Segmentation with Recurrent Attention| 2017 | [ * ](https://arxiv.org/pdf/1605.09410.pdf)| | [TF](https://github.com/renmengye/rec-attend-public) |  |  |  | [TensorFlow](https://github.com/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping)
 |20 | PANet: Path Aggregation Network for Instance Segmentation | 2018 | [ * ](https://arxiv.org/pdf/1803.01534.pdf) |  [PT](https://github.com/ShuLiu1993/PANet) | | | | | [PyTorch](https://github.com/ShuLiu1993/PANet) |
