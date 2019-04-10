@@ -39,6 +39,7 @@ Instance segmentation
 |25 | Deep Residual Learning for Image Recognition | 2015 | [* ](https://arxiv.org/abs/1512.03385) | | [TF](https://github.com/tensorpack/tensorpack/tree/master/examples/ResNet) | | [MCN](https://github.com/zhanghang1989/ResNet-Matconvnet) | [T](https://github.com/KaimingHe/deep-residual-networks) | | [TensorFlow](https://github.com/tensorpack/tensorpack/tree/master/examples/ResNet), [MatConvNet](https://github.com/zhanghang1989/ResNet-Matconvnet), [Torch](https://github.com/KaimingHe/deep-residual-networks) | | | | [Caffe](https://github.com/zhaoweicai/cascade-rcnn) |
 |26 | Cascade R-CNN: Delving into High Quality Object Detection | 2017 | [* ](https://arxiv.org/abs/1712.00726) | | | [C](https://github.com/zhaoweicai/cascade-rcnn) | | | | [Caffe](https://github.com/zhaoweicai/cascade-rcnn) |
 |27 | FastMask: Segment Multi-scale Object Candidates in One Shot | 2016 | [* ](https://arxiv.org/abs/1612.08843) | | | [C](https://github.com/voidrank/FastMask) | | | | [Caffe](https://github.com/voidrank/FastMask) | 
+|28 | Pseudo Mask Augmented Object Detection | 2018 | [ * ](https://arxiv.org/abs/1803.05858) | | | | | | | / |
 |  |  |  |  |  |  |  |  |  |  |
 |A1 | Convolutional feature masking for joint object and stuff segmentation | 2014 | [ * ](https://arxiv.org/pdf/1412.1283.pdf) |
 |A2 | Rich feature hierarchies for accurate object detection and semantic segmentation | 2013 | [ * ](https://arxiv.org/pdf/1311.2524.pdf)|
