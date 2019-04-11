@@ -40,6 +40,7 @@ Instance segmentation
 |26 | Cascade R-CNN: Delving into High Quality Object Detection | 2017 | [* ](https://arxiv.org/abs/1712.00726) | | | [C](https://github.com/zhaoweicai/cascade-rcnn) | | | | [Caffe](https://github.com/zhaoweicai/cascade-rcnn) |
 |27 | FastMask: Segment Multi-scale Object Candidates in One Shot | 2016 | [* ](https://arxiv.org/abs/1612.08843) | | | [C](https://github.com/voidrank/FastMask) | | | | [Caffe](https://github.com/voidrank/FastMask) | 
 |28 | Pseudo Mask Augmented Object Detection | 2018 | [ * ](https://arxiv.org/abs/1803.05858) | | | | | | | / |
+|29 | One-Shot Instance Segmentation | 2018 | [* ](https://arxiv.org/pdf/1811.11507.pdf) | | [TF](https://github.com/bethgelab/siamese-mask-rcnn) | | | | | [TensorFlow](https://github.com/bethgelab/siamese-mask-rcnn) |
 |  |  |  |  |  |  |  |  |  |  |
 |A1 | Convolutional feature masking for joint object and stuff segmentation | 2014 | [ * ](https://arxiv.org/pdf/1412.1283.pdf) |
 |A2 | Rich feature hierarchies for accurate object detection and semantic segmentation | 2013 | [ * ](https://arxiv.org/pdf/1311.2524.pdf)|
