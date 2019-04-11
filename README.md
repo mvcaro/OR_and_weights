@@ -41,6 +41,7 @@ Instance segmentation
 |27 | FastMask: Segment Multi-scale Object Candidates in One Shot | 2016 | [* ](https://arxiv.org/abs/1612.08843) | | | [C](https://github.com/voidrank/FastMask) | | | | [Caffe](https://github.com/voidrank/FastMask) | 
 |28 | Pseudo Mask Augmented Object Detection | 2018 | [ * ](https://arxiv.org/abs/1803.05858) | | | | | | | / |
 |29 | One-Shot Instance Segmentation | 2018 | [* ](https://arxiv.org/pdf/1811.11507.pdf) | | [TF](https://github.com/bethgelab/siamese-mask-rcnn) | | | | | [TensorFlow](https://github.com/bethgelab/siamese-mask-rcnn) |
+|30 | YOLACT: Real-time Instance Segmentation| 2019 | [* ](https://arxiv.org/pdf/1904.02689.pdf) | [PT](https://github.com/dbolya/yolact) | | | | | | [PyTorch](https://github.com/dbolya/yolact) |
 |  |  |  |  |  |  |  |  |  |  |
 |A1 | Convolutional feature masking for joint object and stuff segmentation | 2014 | [ * ](https://arxiv.org/pdf/1412.1283.pdf) |
 |A2 | Rich feature hierarchies for accurate object detection and semantic segmentation | 2013 | [ * ](https://arxiv.org/pdf/1311.2524.pdf)|
