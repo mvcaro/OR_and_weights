@@ -43,8 +43,9 @@ Instance segmentation
 |29 | One-Shot Instance Segmentation | 2018 | [* ](https://arxiv.org/pdf/1811.11507.pdf) | | [TF](https://github.com/bethgelab/siamese-mask-rcnn) | | | | | [TensorFlow](https://github.com/bethgelab/siamese-mask-rcnn) |
 |30 | YOLACT: Real-time Instance Segmentation| 2019 | [* ](https://arxiv.org/pdf/1904.02689.pdf) | [PT](https://github.com/dbolya/yolact) | | | | | | [PyTorch](https://github.com/dbolya/yolact) |
 |31 | Instance-Level Salient Object Segmentation | 2017 | [ * ](https://arxiv.org/pdf/1704.03604.pdf) | | | | | | | / |
+|32 | Semantic Instance Segmentation with a Discriminative Loss Function | 2017 | [* ](https://arxiv.org/pdf/1708.02551.pdf) |
 |  |  |  |  |  |  |  |  |  |  |
 |A1 | Convolutional feature masking for joint object and stuff segmentation | 2014 | [ * ](https://arxiv.org/pdf/1412.1283.pdf) |
-|A2 | Rich feature hierarchies for accurate object detection and semantic segmentation | 2013 | [ * ](https://arxiv.org/pdf/1311.2524.pdf)|
+|A2 | Rich feature hierarchies for accurate object detection and semantic segmentation | 2013 | [ * ](https://arxiv.org/pdf/1311.2524.pdf)| [~PT](https://paperswithcode.com/paper/semantic-instance-segmentation-with-a#code) | | | | | | / |
 |A3 | Simultaneous detection and segmentation | 2014 | [ * ](https://arxiv.org/pdf/1407.1808.pdf) |
 |A4 | Hypercolumns for object segmentation and fine-grained localization | 2014 | [ * ](https://arxiv.org/pdf/1411.5752.pdf)|
