@@ -45,6 +45,7 @@ Instance segmentation
 |31 | Instance-Level Salient Object Segmentation | 2017 | [ * ](https://arxiv.org/pdf/1704.03604.pdf) | | | | | | | / |
 |32 | Semantic Instance Segmentation with a Discriminative Loss Function | 2017 | [* ](https://arxiv.org/pdf/1708.02551.pdf) |
 |33 | Recurrent Neural Networks for Semantic Instance Segmentation | 2017 | [ * ](https://arxiv.org/pdf/1712.00617.pdf) | [PT](https://github.com/imatge-upc/rsis) | | | | | | [PyTorch](https://github.com/imatge-upc/rsis) |
+|34 | One-Shot Instance Segmentation | 2018 | [ * ](https://arxiv.org/pdf/1811.11507.pdf) | [TF](https://github.com/bethgelab/siamese-mask-rcnn) | | | | | | [TensorFlow](https://github.com/bethgelab/siamese-mask-rcnn) | 
 |  |  |  |  |  |  |  |  |  |  |
 |A1 | Convolutional feature masking for joint object and stuff segmentation | 2014 | [ * ](https://arxiv.org/pdf/1412.1283.pdf) |
 |A2 | Rich feature hierarchies for accurate object detection and semantic segmentation | 2013 | [ * ](https://arxiv.org/pdf/1311.2524.pdf)| [~PT](https://paperswithcode.com/paper/semantic-instance-segmentation-with-a#code) | | | | | | / |
