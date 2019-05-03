@@ -49,7 +49,7 @@ Instance segmentation
 |35 | Affinity Derivation and Graph Merge forInstance Segmentation | 2018 | [ * ](https://arxiv.org/pdf/1811.10870.pdf) | | [TF](https://github.com/xck36/GMIS) | | | | | [TensorFlow](https://github.com/xck36/GMIS) |
 |36 | DASNet: Reducing Pixel-level Annotations forInstance and Semantic Segmentation | 2018 |[* ](https://arxiv.org/pdf/1809.06013.pdf)| | | | | | | / |
 |37 | Predicting Future Instance Segmentation by Forecasting Convolutional Feature | 2018 | [ * ](https://arxiv.org/pdf/1803.11496.pdf) | | | [C](https://github.com/facebookresearch/instpred) | | | | [Caffe](https://github.com/facebookresearch/instpred) |
-|38 | RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free | 2019 | [PT](https://github.com/chengyangfu/retinamask) | | | | | | [PyTorch](https://github.com/chengyangfu/retinamask) |
+|38 | RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free | 2019 | [PT](https://github.com/chengyangfu/retinamask) | | | | | | | [PyTorch](https://github.com/chengyangfu/retinamask) |
 |  |  |  |  |  |  |  |  |  |  |
 |A1 | Convolutional feature masking for joint object and stuff segmentation | 2014 | [ * ](https://arxiv.org/pdf/1412.1283.pdf) |
 |A2 | Rich feature hierarchies for accurate object detection and semantic segmentation | 2013 | [ * ](https://arxiv.org/pdf/1311.2524.pdf)| [~PT](https://paperswithcode.com/paper/semantic-instance-segmentation-with-a#code) | | | | | | / |
