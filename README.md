@@ -1,4 +1,4 @@
-Instance segmentation
+Object recognition
 ===
 - PT = PyTorch    
 - TF = TensorFlow
