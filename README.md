@@ -1,4 +1,8 @@
 Object recognition
+
+Library of object recognition models for object detection and instance segmentation. It includes the original paper, pretrained weights available, and deep learning framework used by code shared.
+
+
 ===
 - PT = PyTorch    
 - TF = TensorFlow
